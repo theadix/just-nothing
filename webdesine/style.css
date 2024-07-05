@@ -1,0 +1,7 @@
+/* Import Tailwind CSS */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+/* Custom styling for the education website */
+/* You can add more custom styles as needed */
